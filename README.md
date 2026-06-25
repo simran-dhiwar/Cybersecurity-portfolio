@@ -23,3 +23,15 @@ This project is a beginner-level cybersecurity awareness guide focused on unders
 The detailed guide is available in the PDF file included in this folder:
 **Phishing_Awareness_Guide.pdf**
 
+### Other projects
+
+1. URL Safety Checker
+   - A tool to detect suspicious or unsafe URLs.
+   - GitHub link:
+    https://github.com/simran-dhiwar/url-security-checker.git
+
+2. Password Strength Checker
+   - a simple tool to check how strong a password is.
+   - Github link:
+     https://github.com/simran-dhiwar/password--strength-checker.git
+     
