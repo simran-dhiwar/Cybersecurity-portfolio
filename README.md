@@ -34,4 +34,9 @@ The detailed guide is available in the PDF file included in this folder:
    - a simple tool to check how strong a password is.
    - Github link:
      https://github.com/simran-dhiwar/password--strength-checker.git
+
+3. casear cipher
+   - a simple tool to encrypt or decrypt the message.
+   - Githhub link:
+   - https://github.com/simran-dhiwar/Casear-cipher-project.git
      
