@@ -37,6 +37,9 @@ The detailed guide is available in the PDF file included in this folder:
 
 3. casear cipher
    - a simple tool to encrypt or decrypt the message.
-   - Githhub link:
-   - https://github.com/simran-dhiwar/Casear-cipher-project.git
+   - Githhub link: https://github.com/simran-dhiwar/Casear-cipher-project.git
+
+4. file hashing checker
+   -a tool to check file integrity and track any changes and generate warnings.
+   - Github link : https://github.com/simran-dhiwar/file-hashing-checker.git
      
