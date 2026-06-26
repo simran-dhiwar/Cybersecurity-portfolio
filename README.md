@@ -42,4 +42,7 @@ The detailed guide is available in the PDF file included in this folder:
 4. file hashing checker
    - a tool to check file integrity and track any changes and generate warnings.
    - Github link : https://github.com/simran-dhiwar/file-hashing-checker.git
-     
+
+5. pictoctf challenges writeups
+   - solved simple challeges for develop better understanging in cybersecurity
+   - github link : https://github.com/simran-dhiwar/picoctf-writeups.git
